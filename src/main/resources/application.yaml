@@ -1,0 +1,8 @@
+#spring:
+#    jmx:
+#        enabled: false
+#
+javafx:
+    title: MyCoolApp
+    appicons:
+      - /banben1.jpg
